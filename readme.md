@@ -1,8 +1,8 @@
-##Introduction
+## Introduction
 
 Sample source code for XML-RPC web server
 
-##prerequisite
+## prerequisite
 
 - Java 17
 - maven 3+
