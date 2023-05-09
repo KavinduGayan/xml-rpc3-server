@@ -26,7 +26,7 @@ curl --location --request POST 'http://localhost:8088' \
 </methodCall>'
 ```
 
-##Sample response
+## Sample response
 
 ```
 <?xml version="1.0" encoding="UTF-8"?>
